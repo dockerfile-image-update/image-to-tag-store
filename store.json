@@ -1,6 +1,7 @@
 {
   "images": {
     "someregistry.tld/omundoebao": "42",
-    "this-registry-has-dashes.some-company.with-dashes.io/some-path/with-more-dashes/rv-python-runtime": "42"
+    "this-registry-has-dashes.some-company.with-dashes.io/some-path/with-more-dashes/rv-python-runtime": "42",
+    "gcr.io/i/am/a/container/image": "42"
   }
 }
